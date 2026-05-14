@@ -18,4 +18,11 @@ Instruções para correção de dados ausentes:
 - Exclua todos os dados ausentes
 - Elimine dados duplicados
 
+A entrega deverá ser feita por meio de um Jupyter Notebook (.ipynb), contendo:
+
+* Código-fonte documentado
+* Visualizações com interpretação
+* Anotações em Markdown explicando decisões e insights
+
+
 **Fonte:** Python para Ciências de Dados - Análise do Desenvolvimento Humano e Econômico Global
