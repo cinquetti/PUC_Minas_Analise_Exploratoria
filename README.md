@@ -1,4 +1,8 @@
-A análise desta base de dados é fundamental para:
+**Objetivo**
+
+Obter uma visão abrangente sobre padrões globais de crescimento, desigualdade, evolução populacional e qualidade de vida.
+
+**A análise desta base de dados é fundamental para:**
 
 - Compreender as tendências globais de desenvolvimento humano: Observar como
   a expectativa de vida e o PIB per capita evoluíram ao longo do tempo em
@@ -13,16 +17,15 @@ A análise desta base de dados é fundamental para:
   destacar avanços significativos e também persistências de desigualdades sociais e
   econômicas. [ ]
 
-Instruções para correção de dados ausentes:
+**Instruções para correção de dados ausentes:**
 
 - Exclua todos os dados ausentes
 - Elimine dados duplicados
 
-A entrega deverá ser feita por meio de um Jupyter Notebook (.ipynb), contendo:
+**A entrega deverá ser feita por meio de um Jupyter Notebook (.ipynb), contendo:**
 
-* Código-fonte documentado
-* Visualizações com interpretação
-* Anotações em Markdown explicando decisões e insights
-
+- Código-fonte documentado
+- Visualizações com interpretação
+- Anotações em Markdown explicando decisões e insights
 
 **Fonte:** Python para Ciências de Dados - Análise do Desenvolvimento Humano e Econômico Global
