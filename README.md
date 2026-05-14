@@ -28,4 +28,6 @@ Obter uma visão abrangente sobre padrões globais de crescimento, desigualdade,
 - Visualizações com interpretação
 - Anotações em Markdown explicando decisões e insights
 
+**Prazo de Entrega: 27/05/26**
+
 **Fonte:** Python para Ciências de Dados - Análise do Desenvolvimento Humano e Econômico Global
