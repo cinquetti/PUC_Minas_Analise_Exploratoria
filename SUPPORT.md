@@ -24,4 +24,7 @@ Objetivo: Resumir os principais achados da análise.
 
 Objetivo: Refletir sobre o processo de análise e o aprendizado obtido.
 
+**Atenção à Estrutura Recomendada**
+O não cumprimento dessas etapas poderá resultar em penalizações na nota final.
+
 **Fonte:** Python para Ciências de Dados - Análise do Desenvolvimento Humano e Econômico Global
